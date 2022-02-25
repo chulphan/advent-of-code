@@ -1,4 +1,4 @@
-(ns advent-of-code.day1.day1)
+(ns advent-of-code.day1)
 
 (def l [
         191
